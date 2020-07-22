@@ -1,0 +1,24 @@
+body {
+  font-family:sans-serif;
+}
+.box {
+    min-height: 80px;
+    background-color: red;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+    color: #7FFF00;
+    line-height: 120px;
+    border-radius: 5px;
+}
+h5 {
+  margin: 15px 0px;
+  text-align: center;
+}
+.box1{
+	min-height: 80px;
+	margin-bottom: 10px;
+	font-size: 25px;
+    color: #7FFF00;
+    border-radius: 5px;
+}
